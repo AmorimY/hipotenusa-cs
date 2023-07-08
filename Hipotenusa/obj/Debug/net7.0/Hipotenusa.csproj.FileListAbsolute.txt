@@ -1,0 +1,15 @@
+C:\Users\rafae\Documents\C# estudies\Hipotenusa\Hipotenusa\bin\Debug\net7.0\Hipotenusa.exe
+C:\Users\rafae\Documents\C# estudies\Hipotenusa\Hipotenusa\bin\Debug\net7.0\Hipotenusa.deps.json
+C:\Users\rafae\Documents\C# estudies\Hipotenusa\Hipotenusa\bin\Debug\net7.0\Hipotenusa.runtimeconfig.json
+C:\Users\rafae\Documents\C# estudies\Hipotenusa\Hipotenusa\bin\Debug\net7.0\Hipotenusa.dll
+C:\Users\rafae\Documents\C# estudies\Hipotenusa\Hipotenusa\bin\Debug\net7.0\Hipotenusa.pdb
+C:\Users\rafae\Documents\C# estudies\Hipotenusa\Hipotenusa\obj\Debug\net7.0\Hipotenusa.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\C# estudies\Hipotenusa\Hipotenusa\obj\Debug\net7.0\Hipotenusa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\C# estudies\Hipotenusa\Hipotenusa\obj\Debug\net7.0\Hipotenusa.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\C# estudies\Hipotenusa\Hipotenusa\obj\Debug\net7.0\Hipotenusa.AssemblyInfo.cs
+C:\Users\rafae\Documents\C# estudies\Hipotenusa\Hipotenusa\obj\Debug\net7.0\Hipotenusa.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\C# estudies\Hipotenusa\Hipotenusa\obj\Debug\net7.0\Hipotenusa.dll
+C:\Users\rafae\Documents\C# estudies\Hipotenusa\Hipotenusa\obj\Debug\net7.0\refint\Hipotenusa.dll
+C:\Users\rafae\Documents\C# estudies\Hipotenusa\Hipotenusa\obj\Debug\net7.0\Hipotenusa.pdb
+C:\Users\rafae\Documents\C# estudies\Hipotenusa\Hipotenusa\obj\Debug\net7.0\Hipotenusa.genruntimeconfig.cache
+C:\Users\rafae\Documents\C# estudies\Hipotenusa\Hipotenusa\obj\Debug\net7.0\ref\Hipotenusa.dll
